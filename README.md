@@ -1,4 +1,4 @@
-# DigiCube Repository (Version 2.0 - Block 1m)
+# DigiCube Repository (Version 2.0 - Block 1,000,000)
 ### More information at http://www.freestaking.com
  
  
