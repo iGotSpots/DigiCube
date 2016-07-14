@@ -19,10 +19,14 @@
 3) Staking Parameters
 
 4) Qt-Based Wallet Features
- 
- 
- 
- 
+
+
+
+
+
+
+
+
 1) DigiCube is a decentralized, peer-to-peer network
 Run by a public ledger known as a blockchain, all transactions must be reviewed and fully approved by equal-level nodes to be considered valid. Any transactions deemed malicious, invalid, or otherwise not acceptable, are automatically rejected by peers who are constantly verifying the accuracy and legitimacy of the ledger in real-time through active running nodes. The rules can not be broken. Any node found behaving poorly is banned from connecting for a short time in case it is a valid reason for invalid blocks
 
