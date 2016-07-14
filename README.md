@@ -101,4 +101,4 @@ The Official DigiCube Multipool is a great way to increase your DigiCube holding
 
 Icons have been redone to improve the general look of Android GUI for large screen displays such as an HDTV
 ####  
-## http://www.freestaking.com now accepts DigiCube ONLY!!
+## All links and apps on http://www.freestaking.com/qt are available in-wallet with FULL SSL SUPPORT!!
