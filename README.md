@@ -11,13 +11,13 @@
  
  
 #### New DigiCube Staking Specs
- 
+
 1) Intro
- 
+
 2) Coin Specs
- 
+
 3) Staking Parameters
- 
+
 4) Qt-Based Wallet Features
  
  
