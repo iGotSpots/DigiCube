@@ -1,6 +1,8 @@
 # DigiCube Repository (Version 2.0 - Block 1m)
 ### More information at http://www.freestaking.com
 ####   
+### Advanced User Guide can be found here: https://docs.google.com/document/d/19cFHh5sAniSC_0vLr-L_wQ8T4vqo3TGOcf1MnqiDmMw
+####...
 #### New DigiCube Staking Specs
 
 1) Intro
