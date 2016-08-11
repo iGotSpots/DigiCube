@@ -982,7 +982,6 @@ int64 GetProofOfStakeReward(int64 nCoinAge, int nHeight)
 			nSubsidy = (nCoinAge - (nCoinAge * 1.1)) * COIN;
 		}
 	}
-<<<<<<< HEAD
 	if (nHeight > 1010000) {
 		nSubsidy = nVariableStakeRate * nCoinAge * 33 / (365 * 33 + 8);
 		nSquish = nSubsidy / 1000000;
@@ -993,8 +992,6 @@ int64 GetProofOfStakeReward(int64 nCoinAge, int nHeight)
 			nSubsidy = (nCoinAge - (nCoinAge * 1.1)) * COIN;
 		}
 	}
-=======
->>>>>>> origin/master
     return nSubsidy;
 }
 
