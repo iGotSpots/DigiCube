@@ -15,7 +15,7 @@
 
 // DigiCube version - intended for display purpose only
 #define CUBE_VERSION_MAJOR       2
-#define CUBE_VERSION_MINOR       0
+#define CUBE_VERSION_MINOR       1
 #define CUBE_VERSION_REVISION    0
 #define CUBE_VERSION_BUILD       0
 
